@@ -2,7 +2,7 @@
 
 Este repositório reúne práticas e estudos sobre desenvolvimento web e programação, utilizando diversas linguagens e tecnologias modernas.
 
-## - Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="80" height="80"/>
@@ -12,7 +12,7 @@ Este repositório reúne práticas e estudos sobre desenvolvimento web e program
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
 </p>
 
-## - Badges
+## Badges
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,4 +22,4 @@ Este repositório reúne práticas e estudos sobre desenvolvimento web e program
 
 ---
 
-## - Objetivo: Servir como espaço de aprendizado e experimentação, explorando desde conceitos básicos até práticas avançadas de programação.
+## Objetivo: Servir como espaço de aprendizado e experimentação, explorando desde conceitos básicos até práticas avançadas de programação.

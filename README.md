@@ -1,10 +1,8 @@
-# - Projeto de Estudos em Programação
+# Projeto de Estudos em Programação
 
 Este repositório reúne práticas e estudos sobre desenvolvimento web e programação, utilizando diversas linguagens e tecnologias modernas.
 
----
-
-## - Tecnologias Utilizadas
+## - Tecnologias Utilizadas:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="80" height="80"/>
@@ -13,8 +11,6 @@ Este repositório reúne práticas e estudos sobre desenvolvimento web e program
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
 </p>
-
----
 
 ## - Badges
 
@@ -26,18 +22,7 @@ Este repositório reúne práticas e estudos sobre desenvolvimento web e program
 
 ---
 
-## - Estrutura
-
-- **HTML & CSS** → Estrutura e estilização das páginas.
-- **JavaScript** → Interatividade e lógica no front-end.
-- **TypeScript** → Tipagem estática e maior robustez no código.
-- **Python** → Scripts e automações para o back-end.
-
----
-
-## - Objetivo
-
-Servir como espaço de aprendizado e experimentação, explorando desde conceitos básicos até práticas avançadas de programação.
+## - Objetivo: Servir como espaço de aprendizado e experimentação, explorando desde conceitos básicos até práticas avançadas de programação.
 
 ---
 

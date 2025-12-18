@@ -23,6 +23,3 @@ Este repositório reúne práticas e estudos sobre desenvolvimento web e program
 ---
 
 ## - Objetivo: Servir como espaço de aprendizado e experimentação, explorando desde conceitos básicos até práticas avançadas de programação.
-
----
-

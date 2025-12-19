@@ -1,3 +1,4 @@
+#E aí, eu sou Flaviano, tudo bem?
 # Projeto de Estudos em Programação
 
 Este repositório reúne práticas e estudos sobre desenvolvimento web e programação, utilizando diversas linguagens e tecnologias modernas.

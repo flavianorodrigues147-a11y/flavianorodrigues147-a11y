@@ -1,4 +1,16 @@
-# E aí, eu sou Flaviano, tudo bem?
+# — E aí, eu sou Flaviano, tudo bem?
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 # Projeto de Estudos em Programação
 
 Este repositório reúne práticas e estudos sobre desenvolvimento web e programação, utilizando diversas linguagens e tecnologias modernas.

@@ -1,4 +1,4 @@
-# — E aí, me chamo Flaviano, tudo bem?
+# E aí, me chamo Flaviano, tudo bem?
 
 <br>
 <br>
